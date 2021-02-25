@@ -1,0 +1,9 @@
+.video__iframe-video{
+    width: 515px;
+    height: 316px;
+    border: none;
+}
+.video__iframe-video:first-child{
+    margin-right: 10px;
+    
+}
